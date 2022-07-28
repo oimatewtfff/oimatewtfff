@@ -3,6 +3,10 @@
 </h1>
 
 <p align='center'>
+  A Python and JavaScript developer from Krasnodar.
+</p>
+
+<p align='center'>
   
   <a href="https://www.linkedin.com/in/oimatewtfff/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
