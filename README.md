@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Python and JavaScript developer from Krasnodar.
+  Skills: PYTHON / JS / HTML / CSS / DJANGO / REACT /
 </p>
 
 <p align='center'>
