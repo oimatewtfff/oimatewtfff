@@ -7,7 +7,8 @@
 </p>
 
 <p align='center'>
-https://github-readme-codewars-stats.herokuapp.com/api/?username=oimatewtf&card&colormode=dark_mode
+  `https://github-readme-codewars-stats.herokuapp.com/api/?username=oimatewtf&card&customcolor=bg:2a295b_fg:b500ed_text:fc4646_logo:2a295b_stroke:f75402`
+  ![](./svg/customCard.svg)
 </p>
 
 <p align='center'>
