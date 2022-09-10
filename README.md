@@ -7,7 +7,11 @@
 </p>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=oimatewtfff">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oimatewtfff&layout=compact&theme=synthwave">
+</p>
+
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=oimatewtfff&show_icons=true&theme=synthwave">
 </p>
 
 <p align='center'>
