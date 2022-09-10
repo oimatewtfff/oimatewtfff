@@ -7,6 +7,10 @@
 </p>
 
 <p align='center'>
+https://github-readme-codewars-stats.herokuapp.com/api/?username=oimatewtf&card&colormode=dark_mode
+</p>
+
+<p align='center'>
   📫 How to reach me: 
 </p>
 
