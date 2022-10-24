@@ -11,9 +11,8 @@
 </p>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=oimatewtfff&show_icons=true&theme=synthwave">
+<img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=oimatewtf&card&customcolor=bg:2a295b_fg:b500ed_text:fc4646_logo:2a295b_stroke:f75402">
 </p>
-
 
 
 <!-- <p align='center'>
