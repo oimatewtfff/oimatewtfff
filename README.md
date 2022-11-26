@@ -16,7 +16,7 @@
 
 
 <p align='center'>
-[![GitHub Streak](https://streak-stats.demolab.com?user=oimatewtfff&theme=neon-palenight)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=oimatewtfff&theme=neon-palenight)](https://git.io/streak-stats>
 </p>
 
 <p align='center'>
