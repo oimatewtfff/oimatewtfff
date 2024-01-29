@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Skills: PYTHON / JS / HTML / CSS / DJANGO / REACT /
+  Skills: PYTHON / HTML / CSS / DJANGO
 </p>
 
 
