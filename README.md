@@ -6,10 +6,6 @@
   Skills: PYTHON / JS / HTML / CSS / DJANGO / REACT /
 </p>
 
-<p align='center'>
-<img src="https://github.com/oimatewtfff/github-stats/blob/master/generated/overview.svg">
-<img src="https://github.com/oimatewtfff/github-stats/blob/master/generated/languages.svg">
-</p>
 
 <p align='center'>
   📫 How to reach me: 
