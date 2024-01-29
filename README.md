@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Vitaly Gavrilyuk
+  Vitaly Gavrilyuk
 </h1>
 
 <p align='center'>
