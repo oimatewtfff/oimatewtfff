@@ -25,6 +25,7 @@
     <td>
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /><br/>
       <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white" /><br/>
+      <img src="https://custom-icon-badges.demolab.com/badge/taskiq-%2320232a.svg?style=for-the-badge&logo=taskiq&logoColor=#de5fe9" /><br/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
