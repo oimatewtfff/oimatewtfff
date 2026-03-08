@@ -33,9 +33,9 @@
       <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=fff" /><br/>
     </td>
     <td>
-      <img src="https://custom-icon-badges.demolab.com/badge/uv-261230.svg?style=for-the-badge&logo=uv&logoColor=#de5fe9" /><br/>
-      <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json" /><br/>
-      <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https://raw.githubusercontent.com/astral-sh/ty/refs/heads/main/assets/badge/v0.json" /><br/>
+      <img src="https://custom-icon-badges.demolab.com/badge/uv-261230.svg?style=for-the-badge&logo=uv" /><br/>
+      <img src="https://custom-icon-badges.demolab.com/badge/Ruff-261230.svg?style=for-the-badge&logo=ruff-logo" /><br/>
+      <img src="https://custom-icon-badges.demolab.com/badge/ty-261230.svg?style=for-the-badge&logo=ty-astral-logo" /><br/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><br/>
