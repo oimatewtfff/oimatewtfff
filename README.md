@@ -7,7 +7,7 @@
     <td><b>📜 Languages</b></td>
     <td><b>💻 Frontend</b></td>
     <td><b>🔧 Backend</b></td>
-    <td><b>🗄️ Database</b></td>
+    <td><b>🗄️ Storage</b></td>
     <td><b>🛠️ Tools</b></td>
     <td><b>🖥️ DevOps</b></td>
   </tr>
